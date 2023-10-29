@@ -27,7 +27,7 @@
 
 ## Ответ 2:
 
-![Скрин1](https://github.com/denniskostyuk/rsync/blob/main/task_2.png)
+![Скрин1](https://github.com/denniskostyuk/cash/blob/main/task_2.png)
 
 ## Задание 3. Удаление по TTL в Memcached
 
@@ -37,7 +37,7 @@
 
 ## Ответ 3:
 
-![Скрин2](https://github.com/denniskostyuk/rsync/blob/main/task_3.png)
+![Скрин2](https://github.com/denniskostyuk/cash/blob/main/task_3.png)
 
 ## Задание 4. Запись данных в Redis
 
@@ -48,10 +48,10 @@
 ## Ответ 4:
 
 Устанавливаем и проверяем активность Redis:
-![Скрин3](https://github.com/denniskostyuk/rsync/blob/main/task_41.png)
+![Скрин3](https://github.com/denniskostyuk/cash/blob/main/task_41.png)
 
 Записываем ключи со значениями и достаем данные:
-![Скрин4](https://github.com/denniskostyuk/rsync/blob/main/task_42.png)
+![Скрин4](https://github.com/denniskostyuk/cash/blob/main/task_42.png)
 
 ## Задание 5*. Работа с числами
 
@@ -61,4 +61,4 @@
 
 ## Ответ 5:
 
-![Скрин2](https://github.com/denniskostyuk/rsync/blob/main/task_3.png)
+![Скрин2](https://github.com/denniskostyuk/cash/blob/main/task_3.png)
