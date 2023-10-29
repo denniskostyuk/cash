@@ -48,10 +48,10 @@
 ## Ответ 4:
 
 Устанавливаем и проверяем активность Redis:
-![Скрин3](https://github.com/denniskostyuk/cash/blob/main/task_41.png)
+![Скрин3](https://github.com/denniskostyuk/cash/blob/main/task_4_1.png)
 
 Записываем ключи со значениями и достаем данные:
-![Скрин4](https://github.com/denniskostyuk/cash/blob/main/task_42.png)
+![Скрин4](https://github.com/denniskostyuk/cash/blob/main/task_4_2.png)
 
 ## Задание 5*. Работа с числами
 
